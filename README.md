@@ -1,1 +1,0 @@
-C++ implementation for matrix multiplication. We used gprof to profile the function we are using. The output of the profiling can be found in the analysis text file.
